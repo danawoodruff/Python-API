@@ -2,7 +2,7 @@
 weather_api_key = "0bd9191d6a1b3af5f8156b1c90ba4dce"
 
 # Google API Key
-g_key = "AIzaSyBMRC-8V3uP8l3Kvb_cJx_4uzIslUitP6E"
+g_key = "Your key here"
 ### Part II - VacationPy
 
 #Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
